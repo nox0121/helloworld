@@ -18,5 +18,5 @@
         "psr-4": {
             "Nox0121\\HelloWorld\\": "src/"
         }
-    },
+    }
 }
