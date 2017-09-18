@@ -1,0 +1,22 @@
+{
+    "name": "nox0121/helloworld",
+    "description": "A Hello Wolrd Test Package",
+    "type": "library",
+    "require": {
+        "php": "5.3",
+        "illuminate/database": "^5.2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nox Wang",
+            "email": "nox.gr.wang@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Nox0121\\HelloWorld\\": "src/"
+        }
+    },
+}
