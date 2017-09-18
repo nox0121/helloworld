@@ -13,7 +13,7 @@
             "email": "nox.gr.wang@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Nox0121\\HelloWorld\\": "src/"
